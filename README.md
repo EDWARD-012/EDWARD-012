@@ -2,7 +2,7 @@
 
 ---
 
-![EDWARD-012's Epic Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Ravi%20Kumar%20Gupta%20|%20Coding%20Maestro&fontSize=50&fontColor=ffffff&animation=blink&rotate=5)
+![EDWARD-012's Epic Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Ravi%20Kumar%20Gupta%20|%20Coding%20Maestro&fontSize=50&fontColor=ffffff&animation=blink&rotate=0)
 
 > 🚀 **Coding Ninja | Competitive Programming | Open Source Warrior | Tech Innovator**
 
@@ -82,7 +82,6 @@ Let’s code together! Here are my portals:
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&animation=spin&color=lightgray)](https://github.com/EDWARD-012)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse&color=lightgray)](https://www.linkedin.com/in/edward7780/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=shake&color=lightgray)](mailto:ravirock6257@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=bounce&color=lightgray)](https://twitter.com/EDWARD012) *(Optional: Add your Twitter handle)*
 
 ---
 
