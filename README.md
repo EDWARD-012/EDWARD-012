@@ -103,7 +103,7 @@ Did you know? I once conjured a LeetCode Hard solution in under 20 minutes durin
 
 ---
 
-![Thanks for Visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=blink&rotate=5)
+![Thanks for Visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=blink&rotate=0)
 
 ---
 
