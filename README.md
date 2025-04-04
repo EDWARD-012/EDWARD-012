@@ -94,10 +94,10 @@ Did you know? I once conjured a LeetCode Hard solution in under 20 minutes durin
 ## 🎮 Background Nebula: A Coder’s Universe
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Universe" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.7);">
-  <div style="background-color: rgba(255, 255, 255, 0.9); padding: 15px; border-radius: 10px; margin-top: 10px; text-align: center;">
-    <h2 style="color: #000000; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);">Bright Text for Clarity</h2>
-    <p style="color: #333333; font-size: 16px;">This section ensures all text is legible against dynamic backgrounds.</p>
+  <img src="https://media.giphy.com/media/l0HlVQ6y83xEEh2aCN/giphy.gif" alt="Coding Nebula" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.7);">
+  <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin-top: 10px; text-align: center; backdrop-filter: blur(5px);">
+    <h2 style="color: #00ffcc; text-shadow: 1px 1px 10px rgba(0, 255, 204, 0.8);">Bright Text for Clarity</h2>
+    <p style="color: #ffffff; font-size: 16px;">This section ensures all text is legible against the dynamic coding nebula background.</p>
   </div>
 </div>
 
