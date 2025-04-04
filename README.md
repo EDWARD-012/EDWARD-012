@@ -1,115 +1,83 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there! I'm Ravi Kumar Gupta (EDWARD-012)!
+Sure! Below is a creative and visually appealing `README.md` template for your GitHub profile. This version includes animations, effects, and a beautiful layout to make it stand out. You can customize it further as per your preferences.
+
+```markdown
+# Hi there, I'm Ravi Kumar Gupta! 👋
+![EDWARD-012's Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=white)
+
+> 🚀 **Coding | Development | Competitive Programming | Open Source Enthusiast**
+
+![Profile Views](https://komarev.com/ghpvc/?username=EDWARD-012&color=brightgreen&style=flat-square)
 
 ---
 
-![EDWARD-012's Epic Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Ravi%20Kumar%20Gupta%20|%20Coding%20Maestro&fontSize=50&fontColor=white&animation=blink&rotate=5)
-
-> 🚀 **Coding Ninja | Competitive Programming | Open Source Warrior | Tech Innovator**
-
-![Profile Views](https://komarev.com/ghpvc/?username=EDWARD-012&color=cyan&style=plastic)
-
----
-
-## 🌌 About Me: The Code Alchemist
-
-Welcome to my digital lair! I’m Ravi Kumar Gupta, a coding enthusiast and problem-solving wizard based in Kolkata, currently unleashing my skills at **Techno Main Salt Lake**. Here’s who I am:
-
+### 🧐 About Me:
 - 🎓 **College:** Techno Main Salt Lake, Kolkata
-- 💻 **Languages & Tools:** C++, Python, HTML, Django, Chromium
-- 🌱 **Currently Mastering:** Advanced Django, Chromium Development, and Quantum Leaps in Code
-- 🚀 **Passions:** Competitive Programming, Open Source, FinTech Innovations
-- 💡 **GSoC Dreamer** | Crafting **Chromium** Magic (Data Saver Mode & Tab Grouping)
-- 📫 **Reach Me:** [Email](mailto:ravirock6257@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edward7780/) | [GitHub](https://github.com/EDWARD-012)
+- 💻 **Languages:** C++, Python, HTML
+- 🌱 **Currently Learning:** Django & Chromium Development
+- 🚀 **Interests:** Competitive Programming, Open Source
+- 💡 **GSoC Aspirant** | Working on **Chromium** Features
+- 📫 **Contact:** [Email](mailto:ravirock6257@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edward7780/) | [GitHub](https://github.com/EDWARD-012)
 
 ---
 
-## 🏆 Coding Battlegrounds
-
-I dominate the coding arenas! Check out my war chest:
-
-| Platform         | Username            | Rating/Stars           | Badge |
-|-------------------|---------------------|-----------------------|-------|
-| **LeetCode**      | [EDWARD7780](https://leetcode.com/u/EDWARD7780/) | 1810 (Max: 1876) ⭐ | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) |
-| **CodeChef**      | [EDWARD_7780_1](https://www.codechef.com/users/edward_7780_1) | 4-Star ⭐⭐⭐⭐ | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
-| **GeeksforGeeks** | [ravi5i0bf](https://www.geeksforgeeks.org/user/ravi5i0bf/) | 4-Star ⭐⭐⭐⭐ | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
-| **HackerRank**    | [ravi5258p](https://www.hackerrank.com/profile/ravi5258p) | 5-Star ⭐⭐⭐⭐⭐ | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) |
-| **HackerEarth**   | [ravi5258p](https://www.hackerearth.com/@ravi5258p/) | 5-Star ⭐⭐⭐⭐⭐ | ![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white) |
+### 🏆 Coding Profiles:
+| Platform   | Username | Stars/Rating |
+|------------|----------|-------------|
+| **LeetCode** | [EDWARD7780](https://leetcode.com/u/EDWARD7780/) | 1810 (Max: 1876) ⭐|
+| **CodeChef** | [EDWARD_7780_1](https://www.codechef.com/users/edward_7780_1) | 4-Star ⭐⭐⭐⭐ |
+| **GeeksforGeeks** | [ravi5i0bf](https://www.geeksforgeeks.org/user/ravi5i0bf/) | 4-Star ⭐⭐⭐⭐ |
+| **HackerRank** | [ravi5258p](https://www.hackerrank.com/profile/ravi5258p) | 5-Star ⭐⭐⭐⭐⭐ |
+| **HackerEarth** | [ravi5258p](https://www.hackerearth.com/@ravi5258p/) | 5-Star ⭐⭐⭐⭐⭐ |
 
 ---
 
-## 🔥 GitHub Galaxy: Stats & Achievements
+### 🔥 GitHub Stats:
+![EDWARD-012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=radical&count_private=true)
 
-Explore my coding universe with animated stats and glowing metrics:
-
-![EDWARD-012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&animation=slide)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=monokai&hide_border=true&animation=fade)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight)
 
 ---
 
-## 🚀 Projects: Code That Sparks
-
-I’m building the future, one line at a time! Here’s what’s cooking:
-
-- 💼 **Current Mission:** Crafting a **FinTech Powerhouse** with Django, Mailosaur, and pdfplumber – turning data into gold!
-- 🎯 **Next Frontier:** Chromium Contributions for GSoC – enhancing Data Saver Mode and Tab Grouping for a faster web.
-- 🔗 **Past Exploits:** 
-  - **Taco Shop Website** (HTML-based e-commerce prototype that’s as tasty as code).
-  - Competitive programming solutions that slay bugs and impress judges.
+### 🚀 Projects & Work:
+- 💼 **Current:** FinTech (Django-based project integrating Mailosaur & pdfplumber)
+- 🎯 **Upcoming:** Chromium Contributions for GSoC (Data Saver Mode & Tab Grouping Enhancements)
+- 🔗 **Previous Projects:** Taco Shop Website (HTML-based)
 
 ---
 
-## 🎨 Skills Matrix
-
-My arsenal of coding weapons, visualized with flair:
-
-![Skills](https://skillicons.dev/icons?i=python,cpp,html,django,chromium&perline=5&theme=dark)
-
----
-
-## 📈 Activity Nebula
-
-Witness the glow of my GitHub activity, pulsing with commits and contributions:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EDWARD-012&theme=react-dark&hide_border=true&animation=star)
+### 🎯 Connect With Me:
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/EDWARD-012)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward7780/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravirock6257@gmail.com)
 
 ---
 
-## 🌐 Connect With Me: Join the Code Crew
-
-Let’s code together! Here are my portals:
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&animation=spin)](https://github.com/EDWARD-012)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://www.linkedin.com/in/edward7780/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=shake)](mailto:ravirock6257@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=bounce)](https://twitter.com/EDWARD012) *(Optional: Add your Twitter handle)*
+![Thanks](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=white)
 
 ---
 
-## ⚡ Fun Fact: The Coding Sorcerer
-
-Did you know? I once conjured a LeetCode Hard solution in under 20 minutes during a live battle – my first attempt, and it was legendary! 💥
-
----
-
-## 🎮 Background Nebula: A Coder’s Universe
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Universe" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.7); animation: float 4s infinite;">
-</div>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0); }
-}
-</style>
+### 🌟 Fun Fact:
+> "The best way to predict the future is to invent it." - Alan Kay
 
 ---
 
-![Thanks for Visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=white&animation=blink&rotate=5)
+### 🎨 Background Animation:
+![Background Animation](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
 
 ---
 
-*Crafted with 🔥 and ☕ by Ravi Kumar Gupta (EDWARD-012)*
+### 💬 Let's Chat:
+Feel free to reach out if you want to discuss coding, projects, or just want to say hi! I'm always open to new ideas and collaborations. 
+
+---
+
+### 🌈 My Favorite Quotes:
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
+> "First, solve the problem. Then, write the code." - John Johnson
+
+---
+
+### 🌍 Languages I Speak:
+- English
+- Hindi
