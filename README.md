@@ -2,7 +2,7 @@
 
 ---
 
-![EDWARD-012's Epic Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Ravi%20Kumar%20Gupta%20|%20Coding%20Maestro&fontSize=50&fontColor=white&animation=blink&rotate=5)
+![EDWARD-012's Epic Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Ravi%20Kumar%20Gupta%20|%20Coding%20Maestro&fontSize=50&fontColor=ffffff&animation=blink&rotate=5)
 
 > 🚀 **Coding Ninja | Competitive Programming | Open Source Warrior | Tech Innovator**
 
@@ -95,24 +95,16 @@ Did you know? I once conjured a LeetCode Hard solution in under 20 minutes durin
 ## 🎮 Background Nebula: A Coder’s Universe
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Universe" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.7); animation: float 4s infinite;">
-  <div style="background-color: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 10px; margin-top: 10px;">
-    <h2 style="color: #000000; text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.8);">Bright Text for Clarity</h2>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Universe" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 255, 255, 0.7);">
+  <div style="background-color: rgba(255, 255, 255, 0.9); padding: 15px; border-radius: 10px; margin-top: 10px; text-align: center;">
+    <h2 style="color: #000000; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);">Bright Text for Clarity</h2>
     <p style="color: #333333; font-size: 16px;">This section ensures all text is legible against dynamic backgrounds.</p>
   </div>
 </div>
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0); }
-}
-</style>
-
 ---
 
-![Thanks for Visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=white&animation=blink&rotate=5)
+![Thanks for Visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=blink&rotate=5)
 
 ---
 
