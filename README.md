@@ -1,4 +1,4 @@
-Sure! Below is a creative and visually appealing `README.md` template for your GitHub profile. This version includes animations, effects, and a beautiful layout to make it stand out. You can customize it further as per your preferences.
+
 
 ```markdown
 # Hi there, I'm Ravi Kumar Gupta! 👋
