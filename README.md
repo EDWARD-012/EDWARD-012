@@ -31,7 +31,7 @@ I love transforming complex problems into clean and efficient code while explori
 
 | Platform | Handle | Rating / Rank | Highlights |
 |-----------|---------|---------------|-------------|
-| **CodeChef** | [edward_7780_1](https://www.codechef.com/users/edward_7780_1) | 2062 (Div 1) ⭐⭐⭐⭐ | Global #42 in Starters 195 |
+| **CodeChef** | [edward_7780_1](https://www.codechef.com/users/edward_7780_1) | 2062 (Div 1) ⭐⭐⭐⭐⭐ | Global #42 in Starters 195 |
 | **LeetCode** | [EDWARD7780](https://leetcode.com/u/EDWARD7780/) | 1979 ⭐ | Global Rank #105 in Weekly 456 |
 | **GeeksforGeeks** | [ravi5i0bf](https://www.geeksforgeeks.org/user/ravi5i0bf/) | 1989 ⭐⭐⭐⭐ | Top 1.9 % Globally |
 | **Codeforces** | [Ravi_Kumar_Gupta](https://codeforces.com/profile/Ravi_Kumar_Gupta) | 1402 (Specialist) | Rank 985 in Round 1037 |
