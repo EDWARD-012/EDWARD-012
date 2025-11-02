@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there! I'm **Ravi Kumar Gupta (EDWARD-012)**  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there! I'm **Ravi Kumar Gupta (EDWARD7780)**  
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ravi%20Kumar%20Gupta%20|%20Code%20Warrior&fontSize=45&fontColor=ffffff&animation=twinkling)
 
