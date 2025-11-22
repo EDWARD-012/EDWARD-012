@@ -1,107 +1,151 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there! I'm **Ravi Kumar Gupta (EDWARD7780)**  
+<p align="center"> <img src="https://camo.githubusercontent.com/7abbd416e202c692d4c3a3b999b3b40f39757ab629c2f06f2941d023cf18a076/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578616d7332616a4d774d44517a6457526e626a49314e6d3535636d4e694e47466a597a463061326832596d6377636d68704e5842304e695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e676966" height="250" width="300" frameborder="0" scrolling="no" " alt="Logo" /> </p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ravi%20Kumar%20Gupta%20|%20Code%20Warrior&fontSize=45&fontColor=ffffff&animation=twinkling)
+<h1 align="center">Hi 👋, I'm Ravi Kumar Gupta</h1>
+<h3 align="center">
+  🚀 Full Stack Developer | ⚔️ Competitive Programmer | ☁️ DevOps Enthusiast <br/>
+  🌱 B.Tech CSE @ Techno Main Salt Lake • 🧠 Lifelong Learner
+</h3>
 
-> ⚔️ **Competitive Programmer | Software Engineer | Open-Source Developer | Tech Explorer**
+<div align="center">
+  <a href="https://x.com/ravirock6257"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/edward7780"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/EDWARD-012"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ravi5258p@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=EDWARD-012&color=brightgreen&style=for-the-badge)
-
----
-
-## 🧠 About Me
-
-Hi there! I'm **Ravi Kumar Gupta**, a passionate developer and problem-solver from **Kolkata, India**, currently pursuing **B.Tech in CSE at Techno Main Salt Lake**.  
-I love transforming complex problems into clean and efficient code while exploring the endless universe of technology.
-
-- 💻 **Languages:** C++, Python, C, Java (Beginner), Bash, SQL  
-- 🌐 **Web Stack:** HTML, CSS, JavaScript, Django, REST APIs  
-- 🛠️ **Tools & Frameworks:** Git, Linux, Jupyter, Render, Vercel  
-- 🧩 **Core Concepts:** DSA, OOP, OS, System Design, Compiler Theory  
-- 🚀 **Learning Now:** Chromium Dev, Advanced Django, and AI Integration  
-- ☕ **Hobbies:** Competitive coding, reading tech blogs, optimizing workflows
-
-📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edward7780)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/EDWARD-012)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi5258p@gmail.com)
+- 🔭 Currently working on **LeaveSync — Smart Leave Management System**  
+- 🌱 Learning **Advanced React, Django DRF & Cloud Deployment**  
+- 👯 Open to collaborate on **full-stack & AI-powered applications**  
+- 📫 Reach me → **ravi5258p@gmail.com**  
+- 🔗 All my repositories → **https://github.com/EDWARD-012?tab=repositories**  
+- ⚡ Fun fact → *I code faster with lo-fi beats than with coffee ☕🎧*
 
 ---
 
-## 🏆 Competitive Programming Stats
-
-| Platform | Handle | Rating / Rank | Highlights |
-|-----------|---------|---------------|-------------|
-| **CodeChef** | [edward_7780_1](https://www.codechef.com/users/edward_7780_1) | 2062 (Div 1) ⭐⭐⭐⭐⭐ | Global #42 in Starters 195 |
-| **LeetCode** | [EDWARD7780](https://leetcode.com/u/EDWARD7780/) | 1979 ⭐ | Global Rank #105 in Weekly 456 |
-| **GeeksforGeeks** | [ravi5i0bf](https://www.geeksforgeeks.org/user/ravi5i0bf/) | 1989 ⭐⭐⭐⭐ | Top 1.9 % Globally |
-| **Codeforces** | [Ravi_Kumar_Gupta](https://codeforces.com/profile/Ravi_Kumar_Gupta) | 1402 (Specialist) | Rank 985 in Round 1037 |
-| **HackerRank** | [ravi5258p](https://www.hackerrank.com/profile/ravi5258p) | 5 Star ⭐⭐⭐⭐⭐ | Problem Solving Pro |
-| **HackerEarth** | [ravi5258p](https://www.hackerearth.com/@ravi5258p/) | 5 Star ⭐⭐⭐⭐⭐ | Regular Contestant |
-| **AtCoder** | [EDWARD_7780](https://atcoder.jp/users/EDWARD_7780) | 7-Kyu | Exploring Japanese Contests |
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 [**RGPT – AI Chat Application**](https://github.com/EDWARD-012/RGPT-Chat-App)
-**Stack:** React • Django • Gemini API  
-- Built a full-stack AI chat app with **95 %+ response accuracy** on 100+ test queries.  
-- Integrated **Google OAuth**, handled **secure sessions** & deployed via **Vercel + Render**.  
-- Optimized for **< 200 ms latency** and **99 % uptime** across devices.
-
-### 🔢 [**Django Sudoku Solver**](https://github.com/EDWARD-012/django-sudoku-solver)
-**Stack:** Python • Django • Tesseract SSD  
-- Solves **1 000+ Sudoku puzzles/hour** with **92 % OCR accuracy**.  
-- Enhanced backend to cut solving time from **12 s → 3 s**.  
-- Real-time UI feedback for smooth user experience.
-
-### 💸 [**FinTech Dashboard**](https://github.com/EDWARD-012/FinTech)
-**Stack:** HTML • CSS • JS • Chart.js  
-- Simulates **100+ live stock tickers** & payment data.  
-- Achieved **99 % responsive consistency** across 5 device types.  
-- Visualizes **50+ financial metrics** with dynamic charts.
-
----
-
-## 💼 Experience & Highlights
-
-- 🧩 **Hackathons:** Internal & inter-college participation — full-stack builds under pressure.  
-- 🧠 **Open Source:** Active on GitHub; collaborative issue tracking & PR reviews.  
-- 🎯 **Achievements:**  
-  - 🥇 Finalist – *Shaastra Programming Contest*, IIT Madras  
-  - 🥈 Rank 5 – CodeChef Starters 193 (Div 2)  
-  - 🥈 Rank 8 – GFG Weekly 183  
-  - 🎖️ AIR 6677 (WBJEE 2023) among 1.2 Lakh+ candidates  
-  - 🧮 96/100 in Math, CBSE Class 12
-
----
-
-## 🧰 Tech Stack Snapshot
-
-![Tech Stack](https://skillicons.dev/icons?i=cpp,python,html,css,js,django,react,git,linux,mysql,postgres,mongodb&perline=6)
-
----
-
-## 📊 GitHub Galaxy
-
+# 🤝 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDWARD-012&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <a href="https://x.com/ravirock6257"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://linkedin.com/in/edward7780"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://leetcode.com/u/EDWARD7780/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45"/>
+</a>
+  <a href="mailto:ravi5258p@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🛠️ Languages & Tools
 
-> Once solved a **LeetCode Hard** in under 20 minutes during a live contest.  
-> The adrenaline still lives rent-free in my brain 💥
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,django,postgres,mongodb,mysql,git,linux,postman,tailwind,figma" />
+</p>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=35&fontColor=ffffff&animation=twinkling)
+# 🚀 Featured Projects (Card Style)
 
-*Crafted with 💻 and ☕ by Ravi Kumar Gupta (EDWARD-012)*
+## 🟦 **LeaveSync — Smart Leave Management System**
+📌 **Repo:** https://github.com/EDWARD-012/LeaveSync  
+**Tech:** React • Django • DRF • PostgreSQL  
+- Role-based dashboards (Admin, User, Manager)  
+- JWT authentication + secure session flow  
+- Leave analytics, charts, approval system  
+- API-first architecture + mobile-friendly UI  
+
+---
+
+## 🟩 **RGPT — AI Chat Application**
+📌 https://github.com/EDWARD-012/RGPT-Chat-App  
+- Gemini AI integration  
+- Google OAuth login  
+- 99% uptime • <200ms response time  
+
+---
+
+## 🟨 **Django Sudoku Solver**
+📌 https://github.com/EDWARD-012/django-sudoku-solver  
+- OCR-based solver (92% accuracy)  
+- Solves 1000+ puzzles/hr  
+- Clean UI with real-time updates  
+
+---
+
+## 🟧 **FinTech Dashboard**
+📌 https://github.com/EDWARD-012/FinTech  
+- 100+ live stock tickers  
+- 50+ financial metrics  
+- 99% responsive consistency  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=neon-dark" height="170" />
+</p>
+
+
+---
+
+# 📊 Statistics
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EDWARD-012&theme=highcontrast" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EDWARD-012&theme=highcontrast" height="180em" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EDWARD-012&theme=highcontrast" height="180em" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EDWARD-012&theme=highcontrast" height="180em" />
+</p>
+
+
+---
+
+
+# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDWARD-012&theme=tokyo-night" />
+</p>
+
+---
+
+# 🎖 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EDWARD-012&theme=onestar&margin-w=8" />
+</p>
+
+---
+
+# 🎧 Coding Vibes Playlist
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wJRc" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&width=600&count=5&unique=true" alt="Coding Playlist" />
+  </a>
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=twinkling" />
+</p>
