@@ -125,10 +125,11 @@
 
 ---
 
-# 🎧 Coding Vibes Playlist
+## 🎧 Coding Playlist
+
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wJRc" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&width=600&count=5&unique=true" alt="Coding Playlist" />
+  <a href="https://open.spotify.com/playlist/1NIlouPwHi81SPIfHf213T" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&count=5&width=600&unique=true" />
   </a>
 </p>
 
