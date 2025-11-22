@@ -127,11 +127,19 @@
 
 ## 🎧 Coding Playlist
 
-<p align="center">
-  <a href="https://open.spotify.com/playlist/1NIlouPwHi81SPIfHf213T" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&count=5&width=600&unique=true" />
+<div align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3eWJ6ZWc0eGx6eXJ6ZHZ6eXJ6ZHZ6eXJ6ZHZ6eXJ6ZHZ6eXJ6ZHZ6/du3J3cXyzhj75IOgvA/giphy.gif" width="400" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(120, 81, 169, 0.7);" alt="Cyberpunk Tape" />
   </a>
-</p>
+  <br/>
+  <br/>
+  <b><i>"Code flows better with Synthwave."</i></b>
+  <br/>
+  <br/>
+  <a href="https://open.spotify.com/user/YOUR_USERNAME">
+     <img src="https://img.shields.io/badge/Listen_on-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" />
+  </a>
+</div>
 
 ---
 
