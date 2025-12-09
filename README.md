@@ -75,15 +75,11 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
