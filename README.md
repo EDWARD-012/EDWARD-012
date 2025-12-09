@@ -75,15 +75,15 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=neon-dark" height="170" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+</div>
 
 ---
 
