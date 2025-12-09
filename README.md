@@ -14,12 +14,7 @@
 </div>
 <br>
 
-- 🔭 Currently working on **LeaveSync — Smart Leave Management System**  
-- 🌱 Learning **Advanced React, Django DRF & Cloud Deployment**  
-- 👯 Open to collaborate on **full-stack & AI-powered applications**  
-- 📫 Reach me → **ravi5258p@gmail.com**  
-- 🔗 All my repositories → **https://github.com/EDWARD-012?tab=repositories**  
-- ⚡ Fun fact → *I code faster with lo-fi beats than with coffee ☕🎧*
+- 🔭 Currently working on **LeaveSync — Smart Leave Management System** - 🌱 Learning **Advanced React, Django DRF & Cloud Deployment** - 👯 Open to collaborate on **full-stack & AI-powered applications** - 📫 Reach me → **ravi5258p@gmail.com** - 🔗 All my repositories → **https://github.com/EDWARD-012?tab=repositories** - ⚡ Fun fact → *I code faster with lo-fi beats than with coffee ☕🎧*
 
 ---
 
@@ -42,10 +37,10 @@
 
 ---
 
-# 🚀 Featured Projects (Card Style)
+# 🚀 Featured Projects
 
 ## 🟦 **LeaveSync — Smart Leave Management System**
-📌 **Repo:** https://github.com/EDWARD-012/LeaveSync  
+📌 **Repo:** [LeaveSync](https://github.com/EDWARD-012/LeaveSync)  
 **Tech:** React • Django • DRF • PostgreSQL  
 - Role-based dashboards (Admin, User, Manager)  
 - JWT authentication + secure session flow  
@@ -55,7 +50,7 @@
 ---
 
 ## 🟩 **RGPT — AI Chat Application**
-📌 https://github.com/EDWARD-012/RGPT-Chat-App  
+📌 [RGPT-Chat-App](https://github.com/EDWARD-012/RGPT-Chat-App)  
 - Gemini AI integration  
 - Google OAuth login  
 - 99% uptime • <200ms response time  
@@ -63,7 +58,7 @@
 ---
 
 ## 🟨 **Django Sudoku Solver**
-📌 https://github.com/EDWARD-012/django-sudoku-solver  
+📌 [django-sudoku-solver](https://github.com/EDWARD-012/django-sudoku-solver)  
 - OCR-based solver (92% accuracy)  
 - Solves 1000+ puzzles/hr  
 - Clean UI with real-time updates  
@@ -71,7 +66,7 @@
 ---
 
 ## 🟧 **FinTech Dashboard**
-📌 https://github.com/EDWARD-012/FinTech  
+📌 [FinTech](https://github.com/EDWARD-012/FinTech)  
 - 100+ live stock tickers  
 - 50+ financial metrics  
 - 99% responsive consistency  
@@ -81,8 +76,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-edward.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-edward.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -95,16 +90,16 @@
 # 📊 Statistics
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EDWARD-012&theme=highcontrast" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EDWARD-012&theme=highcontrast" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EDWARD-012&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EDWARD-012&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EDWARD-012&theme=highcontrast" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EDWARD-012&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EDWARD-012&theme=highcontrast" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EDWARD-012&theme=tokyonight" height="180em" />
 </p>
 
 
