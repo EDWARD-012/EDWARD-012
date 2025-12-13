@@ -115,7 +115,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=EDWARD-012&theme=onedark)](https://github.com/EDWARD-012/github-profile-trophy)
+![GitHub Profile Trophy with onedark theme](github-profile-trophy.vercel.app)
 
 ---
 
