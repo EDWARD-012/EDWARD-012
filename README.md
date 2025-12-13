@@ -80,7 +80,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EDWARD-012&theme=tokyonight&mode=png" />
+  <img
+    src="https://streak-stats.demolab.com?user=EDWARD-012&mode=png"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
