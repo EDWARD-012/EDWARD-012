@@ -115,11 +115,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EDWARD-012&theme=tokyonight&margin-w=8&row=1&column=6" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=EDWARD-012&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
