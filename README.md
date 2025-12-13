@@ -79,7 +79,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EDWARD-012&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -112,7 +112,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EDWARD-012&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Ravi's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EDWARD-012&theme=tokyonight&margin-w=8&row=1&column=6" />
   </a>
 </div>
 
