@@ -79,7 +79,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://ghproxy.com/https://streak-stats.demolab.com?user=EDWARD-012" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EDWARD-012&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
