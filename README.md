@@ -14,13 +14,12 @@
 </div>
 <br>
 
- 🔭 Currently working on **LeaveSync — Smart Leave Management System** - 🌱 Learning **Advanced React, Django DRF & Cloud Deployment** - 👯 Open to collaborate on **full-stack & AI-powered applications** - 📫 Reach me → **ravi5258p@gmail.com** - 🔗 All my repositories → **https://github.com/EDWARD-012?tab=repositories** - ⚡ Fun fact → *I code faster with lo-fi beats than with coffee ☕🎧*
-
----
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+🔭 **Currently Building:** LeaveSync — a scalable smart leave management system  
+🌱 **Upskilling In:** Advanced React, Django REST Framework, and Cloud Deployment  
+👯 **Open To:** Internship and collaboration opportunities in full-stack and AI-driven development  
+📫 **Contact:** ravi5258p@gmail.com  
+🔗 **Portfolio & Repositories:** https://github.com/EDWARD-012  
+⚡ **Developer Note:** I maintain high focus and productivity, often coding with lo-fi music 🎧
 
 ---
 
@@ -35,6 +34,20 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=EDWARD-012&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+</div>
+
+---
+
 # 🛠️ Languages & Tools
 
 <p align="center">
@@ -44,12 +57,6 @@
 ---
 
 # 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=EDWARD-012&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
-
-</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight" width="48%" />
