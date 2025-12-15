@@ -43,42 +43,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🟦 **LeaveSync — Smart Leave Management System**
-📌 **Repo:** [LeaveSync](https://github.com/EDWARD-012/LeaveSync)  
-**Tech:** React • Django • DRF • PostgreSQL  
-- Role-based dashboards (Admin, User, Manager)  
-- JWT authentication + secure session flow  
-- Leave analytics, charts, approval system  
-- API-first architecture + mobile-friendly UI  
-
----
-
-## 🟩 **RGPT — AI Chat Application**
-📌 [RGPT-Chat-App](https://github.com/EDWARD-012/RGPT-Chat-App)  
-- Gemini AI integration  
-- Google OAuth login  
-- 99% uptime • <200ms response time  
-
----
-
-## 🟨 **Django Sudoku Solver**
-📌 [django-sudoku-solver](https://github.com/EDWARD-012/django-sudoku-solver)  
-- OCR-based solver (92% accuracy)  
-- Solves 1000+ puzzles/hr  
-- Clean UI with real-time updates  
-
----
-
-## 🟧 **FinTech Dashboard**
-📌 [FinTech](https://github.com/EDWARD-012/FinTech)  
-- 100+ live stock tickers  
-- 50+ financial metrics  
-- 99% responsive consistency  
-
----
-
 # 📊 GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -147,6 +111,42 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🟦 **LeaveSync — Smart Leave Management System**
+📌 **Repo:** [LeaveSync](https://github.com/EDWARD-012/LeaveSync)  
+**Tech:** React • Django • DRF • PostgreSQL  
+- Role-based dashboards (Admin, User, Manager)  
+- JWT authentication + secure session flow  
+- Leave analytics, charts, approval system  
+- API-first architecture + mobile-friendly UI  
+
+---
+
+## 🟩 **RGPT — AI Chat Application**
+📌 [RGPT-Chat-App](https://github.com/EDWARD-012/RGPT-Chat-App)  
+- Gemini AI integration  
+- Google OAuth login  
+- 99% uptime • <200ms response time  
+
+---
+
+## 🟨 **Django Sudoku Solver**
+📌 [django-sudoku-solver](https://github.com/EDWARD-012/django-sudoku-solver)  
+- OCR-based solver (92% accuracy)  
+- Solves 1000+ puzzles/hr  
+- Clean UI with real-time updates  
+
+---
+
+## 🟧 **FinTech Dashboard**
+📌 [FinTech](https://github.com/EDWARD-012/FinTech)  
+- 100+ live stock tickers  
+- 50+ financial metrics  
+- 99% responsive consistency  
 
 ---
 
