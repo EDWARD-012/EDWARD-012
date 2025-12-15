@@ -14,7 +14,7 @@
 </div>
 <br>
 
-- 🔭 Currently working on **LeaveSync — Smart Leave Management System** - 🌱 Learning **Advanced React, Django DRF & Cloud Deployment** - 👯 Open to collaborate on **full-stack & AI-powered applications** - 📫 Reach me → **ravi5258p@gmail.com** - 🔗 All my repositories → **https://github.com/EDWARD-012?tab=repositories** - ⚡ Fun fact → *I code faster with lo-fi beats than with coffee ☕🎧*
+ 🔭 Currently working on **LeaveSync — Smart Leave Management System** - 🌱 Learning **Advanced React, Django DRF & Cloud Deployment** - 👯 Open to collaborate on **full-stack & AI-powered applications** - 📫 Reach me → **ravi5258p@gmail.com** - 🔗 All my repositories → **https://github.com/EDWARD-012?tab=repositories** - ⚡ Fun fact → *I code faster with lo-fi beats than with coffee ☕🎧*
 
 ---
 
