@@ -18,6 +18,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 # 🤝 Connect With Me
 <p align="center">
   <a href="https://x.com/ravirock6257"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
@@ -34,12 +40,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,django,postgres,mongodb,mysql,git,linux,postman,tailwind,figma" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
