@@ -7,6 +7,11 @@
 </h3>
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
+</p>
+
 ---
 
 <div align="center">
@@ -162,11 +167,6 @@
 - 99% responsive consistency  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=twinkling" />
