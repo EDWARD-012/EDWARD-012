@@ -51,10 +51,10 @@
 
 </div>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
