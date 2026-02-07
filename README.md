@@ -1,4 +1,15 @@
 <div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FEDWARD-012dea58.png?alt=media" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/edward7780"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&border=1"/></a>
+  <a href="https://x.com/ravirock6257"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white&border=1"/></a>
+  <a href="mailto:ravi5258p@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&border=1"/></a>
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Ravi%20Kumar%20Gupta&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=55&stroke=30363d&strokeWidth=0" width="100%" />
   
   <a href="https://git.io/typing-svg">
