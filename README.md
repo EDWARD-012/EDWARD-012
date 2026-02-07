@@ -73,21 +73,17 @@
 
 ---
 
-# 📊 Statistics
+# 📊 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EDWARD-012&theme=tokyonight" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EDWARD-012&theme=tokyonight" height="180em" />
+  <img src="https://raw.githubusercontent.com/EDWARD-012/EDWARD-012/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/EDWARD-012/EDWARD-012/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EDWARD-012&theme=tokyonight" height="180em" />
+  <img src="https://raw.githubusercontent.com/EDWARD-012/EDWARD-012/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/EDWARD-012/EDWARD-012/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="45%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EDWARD-012&theme=tokyonight" height="180em" />
-</p>
-
 
 ---
 
