@@ -13,10 +13,34 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p>I'm <b>EDWARD-012</b>. I solve complex algorithmic problems and build robust systems.<br/>Currently grinding for <b>ICPC</b> and mastering <b>System Design</b>.</p>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
+</p>
+
+---
+
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=EDWARD-012&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+</div>
   
-  <a href="https://linkedin.com/in/edward7780"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ravirock6257"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:ravi5258p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+# 🤝 Connect With Me
+<p align="center">
+  <a href="https://x.com/ravirock6257"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://linkedin.com/in/edward7780"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://leetcode.com/u/EDWARD7780/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45"/>
+</a>
+  <a href="mailto:ravi5258p@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 </div>
 
 <br/>
@@ -30,12 +54,14 @@
 
 <br/>
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDWARD-012&theme=dark&hide_border=true&background=0d1117&ring=00f2ff&currStreakNum=00f2ff&stroke=00f2ff&fire=00f2ff" />
-</div>
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EDWARD-012&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDWARD-012&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
 
 <br/>
 
