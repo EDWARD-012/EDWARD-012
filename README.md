@@ -66,7 +66,7 @@
   <a href="https://leetcode.com/u/EDWARD7780/">
     <img src="https://leetcard.jacoblin.cool/EDWARD7780?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="85%" />
     <br/>
-    <img src="https://img.shields.io/badge/Contest_Rating-1,650+(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Contest_Rating-2,000+(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
