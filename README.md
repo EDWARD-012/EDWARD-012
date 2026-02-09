@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,00f2ff,0d1117&height=250&section=header&text=Ravi%20Kumar%20Gupta&fontSize=55&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=CodeChef%205*%20%7C%20CF%20Specialist%20%7C%20Full%20Stack%20Dev&descFontSize=20&descFontColor=ffffff&descAlignY=80&stroke=00f2ff&strokeWidth=2" width="100%" />
-</div>
-
+<img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FEDWARD-0120253a.png?alt=media" alt="OpBento"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer+(5*+CodeChef);Full+Stack+Developer+(React+%2B+Django);Codeforces+Specialist+(Max+1426);Building+Scalable+System+Architectures" alt="Typing SVG" />
@@ -17,7 +14,6 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
     <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
-    <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FEDWARD-0120253a.png?alt=media" alt="OpBento"/>
   </p>
   
 ---
