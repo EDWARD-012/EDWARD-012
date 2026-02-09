@@ -15,9 +15,11 @@
   <p>I'm <b>EDWARD-012</b>. I solve complex algorithmic problems and build robust systems.<br/>Currently grinding for <b>ICPC</b> and mastering <b>System Design</b>.</p>
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
-</p>
+    <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
+    <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
+  </p>
+ ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FEDWARD-0120253a.png?alt=media)
+
 
 ---
   
