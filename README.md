@@ -8,6 +8,15 @@
 <br/>
 
 <div align="center">
+  <a href="https://gitarena.vercel.app"><img src="https://gitarena.vercel.app/api/badge/EDWARD-012" alt="GitArena Stats" width="540" height="210" /></a>
+  <img
+                  src="https://github-readme-activity-graph.vercel.app/graph?username=EDWARD-012&theme=nord&hide_border=true&bg_color=00000000"
+                  alt="GitHub Contributions Graph"
+                  className="w-full"
+                />
+</div>
+
+<div align="center">
   <h2>👨‍💻 About Me</h2>
   <p>I'm <b>EDWARD-012</b>. I solve complex algorithmic problems and build robust systems.<br/>Currently grinding for <b>ICPC</b> and mastering <b>System Design</b>.</p>
 
