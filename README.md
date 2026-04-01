@@ -6,15 +6,5 @@
     <img src="https://komarev.com/ghpvc/?username=EDWARD-012&label=Profile%20Views&color=blueviolet&style=flat" />
     <img src="https://img.shields.io/github/followers/EDWARD-012?label=Followers&style=social" />
   </p>
-  
-# 🤝 Connect With Me
-<p align="center">
-  <a href="https://x.com/ravirock6257"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="https://linkedin.com/in/edward7780"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://leetcode.com/u/EDWARD7780/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45"/>
-</a>
-  <a href="mailto:ravi5258p@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-</p>
-
 
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=EDWARD-012&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
