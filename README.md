@@ -62,39 +62,6 @@
 <br/>
 
 <div align="center">
-  <h2>🏆 Competitive Programming Cards</h2>
-  
-  <div style="background-color: #0d1117; padding: 10px; border-radius: 10px; border: 1px solid #30363d; width: 80%;">
-    <a href="https://www.codechef.com/users/edward_7780_1">
-      <h3 style="color: #D0B44E;">CodeChef Profile</h3>
-      <img src="https://img.shields.io/badge/Rating-5%20Star%20(2000+)-D0B44E?style=for-the-badge&logo=codechef&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Global_Rank-Top_1%25-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Country_Rank-Top_500-orange?style=flat-square" />
-    </a>
-  </div>
-  <br/>
-
-  <a href="https://codeforces.com/profile/EDWARD7780_1">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=EDWARD7780_1&theme=github_dark&show_icons=true" width="85%" />
-  </a>
-  <br/>
-
-  <a href="https://atcoder.jp/users/EDWARD_7780">
-    <img src="https://atcoder-readme-stats.vercel.app/stats/EDWARD_7780?theme=darcula&show_history=true&show_icons=true" width="85%" />
-  </a>
-  <br/>
-
-  <a href="https://leetcode.com/u/EDWARD7780/">
-    <img src="https://leetcard.jacoblin.cool/EDWARD7780?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="85%" />
-    <br/>
-    <img src="https://img.shields.io/badge/Contest_Rating-2,200+(Guardian)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <h2>🛠️ Tech Arsenal</h2>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,django,postgres,mongodb,html,css,git,docker,linux,aws,figma&perline=16&theme=dark" />
 </div>
