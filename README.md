@@ -21,16 +21,6 @@
   </p>
   
 ---
-  
-# 🤝 Connect With Me
-<p align="center">
-  <a href="https://x.com/ravirock6257"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="https://linkedin.com/in/edward7780"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://leetcode.com/u/EDWARD7780/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45"/>
-</a>
-  <a href="mailto:ravi5258p@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-</p>
-
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
