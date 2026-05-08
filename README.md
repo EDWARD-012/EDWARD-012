@@ -69,67 +69,6 @@
 <br/>
 
 <div align="center">
-<h2>🚀 High-Impact Projects</h2>
-<table border="0" width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>🟦 LeaveSync</h3>
-<p>Smart Leave Management System.</p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<br/><br/>
-<a href="https://github.com/EDWARD-012/LeaveSync">
-<img src="https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1" />
-</a>
-</td>
-<td width="50%" align="center">
-<h3>♟️ Checkora</h3>
-<p>Real-time Multiplayer Chess Engine.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
-<br/><br/>
-<a href="https://github.com/Checkora/Checkora">
-<img src="https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h3>🤖 RGPT Chat</h3>
-<p>AI Chatbot powered by Gemini.</p>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<br/><br/>
-<a href="https://github.com/EDWARD-012/RGPT-Chat-App">
-<img src="https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1" />
-</a>
-</td>
-<td width="50%" align="center">
-<h3>🧩 Sudoku Solver</h3>
-<p>OCR based puzzle solver.</p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<br/><br/>
-<a href="https://github.com/EDWARD-012/django-sudoku-solver">
-<img src="https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white&border=1" />
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>📊 Deep Dive Analysis</h2>
-  <img src="https://raw.githubusercontent.com/EDWARD-012/EDWARD-012/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="100%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/EDWARD-012/EDWARD-012/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <h2>📈 Contribution History</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDWARD-012&bg_color=0d1117&color=ffffff&line=00f2ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
